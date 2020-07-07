@@ -31,27 +31,8 @@
 					   </ul>
 		</div>
 </div>
-</nav>
-                <!--<form class="form-inline" action="connect.php">
-				    <input class="form-control mr-sm-2" type="text" placeholder="Search">
-				    <button class="btn btn-success" type="submit">Search</button>
-                </form>-->
-
-           <!-- <div class="carousel-inner">
-            <div class="item active">
-                <div class="fill"><img src="/front/images/slider1.jpg"></div>
-            </div>
-            <div class="item">
-                <div class="fill"><img src="/front/images/slider2.jpg"></div>
-            </div>
-            <div class="item">
-                <div class="fill"><img src="/front/images/slider3.jpg"></div>
-            </div>
-        </div>
-        <div class="arrowbu">
-            <a class="left carousel-control" href="#carousel" data-slide="prev"><span class="icon-prev"></span></a> <a class="right carousel-control" href="#carousel" data-slide="next"><span class="icon-next"></span></a>
-        </div>
-    </div>-->
+</nav><br><br><br>
+                
 
 		
 			<div class="container dcol">
@@ -89,7 +70,6 @@
 		
 	        </div>
 			
-	</div>
 
 </body>
 </html>|
